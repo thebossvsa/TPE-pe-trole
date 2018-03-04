@@ -1,0 +1,134 @@
+body {
+	margin: 50px;
+	background-image: url(../CSS/images/plateforme.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	font-size: 20px;
+}
+
+.btn {
+	background-color: #ADB8AA;
+	font-color: white;
+}
+
+.btn:hover {
+	background-color: #6C6D67;
+
+}
+
+button {
+	background-color: #6E5E63;
+	width: 80px;
+	height: 35px;
+}
+
+.page-header {
+	background-color: white;
+	border-radius : 10px;
+	box-shadow: 2px 2px 3px #6C6D67
+	margin : 20px;
+	padding: 20px;
+}
+
+.page-header > h1 {
+	background-color: white;
+	padding: 5px;
+	border-radius: 10px;
+	text-align: center;	
+	box-shadow: 2px 2px 3px #6C6D67;
+}
+
+.dropdown > a {
+	background-color:  #ADB8AA;
+	color: white;
+}
+
+.dropdown > span:hover {
+	background-color: white;
+}
+
+.jumbotron	{
+	border-radius: 10px;
+	margin: 20px;
+	box-shadow: 2px 2px 3px #6C6D67;
+	padding-left: 20px;
+}
+
+#intro {
+	text-align: center;	
+	padding: 10px;
+	margin: 20px;
+	background-color: white;
+	border-radius: 10px;
+	border: solid 1px #DDDDDD;
+	box-shadow: 2px 2px 3px #4D444C;
+}
+
+.id-card {
+	text-align: center;
+}
+
+.id-card > img{
+	width: 100px;
+	padding: 2px;
+	border: solid #ADB8AA;
+	display: inline-block;
+	box-shadow: 2px 2px 3px #6C6D67;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.id-card > p {
+	font-family: roboto, open-sans;
+	margin-top: 2px;
+	font-size: 20px;
+}
+
+.id-card > a:hover {
+	color: black;
+}
+
+.card {
+	margin: 20px;
+	text-align: center;
+	box-shadow: 2px 2px 3px #4D444C;
+}
+
+.card > img {
+	width: 250px;
+}
+
+
+#footer {
+	text-align: center;
+	font-size: 15px;
+	background-color: white;
+	display: block;
+	border-radius: 10px;
+	border: solid 1px #DDDDDD;
+	margin: 20px;
+	box-shadow: 2px 2px 3px #4D444C;
+}
+
+#footer > p {
+	font-size: 10px;	
+	font-family: roboto, open-sans;
+
+}
+
+#footer > a {
+	font-size: 50px;
+	font-color: #ADB8AA; 
+}
+
+i {
+	size: 50px;
+	margin: 15px;
+}
+
+p {
+	margin: 15px;
+}
+
+
+
